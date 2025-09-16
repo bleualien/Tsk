@@ -1,4 +1,0 @@
-pandas
-openai
-langchain
-#restaurant_reco\Scripts\activate
