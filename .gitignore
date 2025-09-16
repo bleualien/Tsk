@@ -1,1 +1,6 @@
+# Ignore large CSV files
+Product Recomendation Sys/data/products.csv
+Student Scores dataset/student-scores.csv
+
+# Ignore LLM folder
 LLM/
