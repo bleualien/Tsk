@@ -2,5 +2,10 @@
 Product Recomendation Sys/data/products.csv
 Student Scores dataset/student-scores.csv
 
-# Ignore LLM folder
+# Ignore LLM folders
 LLM/
+
+# Ignore additional folders
+Product Recomendation Sys/restro_reco/
+Scraped data from bookstore/venv/
+Student Scores dataset/restro_reco/
